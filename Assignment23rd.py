@@ -1,12 +1,12 @@
 #1
-"""
+
 name="Matatah"
 age=24
 is_student=False
 print(name)
 print(age)
 print(is_student)
-"""
+
 
 #2
 """
